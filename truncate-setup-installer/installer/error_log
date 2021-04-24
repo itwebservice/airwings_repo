@@ -1,0 +1,10 @@
+[16-Jan-2020 05:44:10 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(../../../uploads): failed to open dir: No such file or directory' in /home/itourscloud/public_html/harman/truncate-setup-installer/installer/installer.php:66
+Stack trace:
+#0 /home/itourscloud/public_html/harman/truncate-setup-installer/installer/installer.php(66): DirectoryIterator->__construct('../../../upload...')
+#1 {main}
+  thrown in /home/itourscloud/public_html/harman/truncate-setup-installer/installer/installer.php on line 66
+[09-Jan-2021 11:27:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(../../../uploads): failed to open dir: No such file or directory' in /home/itourscloud/public_html/airwings/truncate-setup-installer/installer/installer.php:66
+Stack trace:
+#0 /home/itourscloud/public_html/airwings/truncate-setup-installer/installer/installer.php(66): DirectoryIterator->__construct('../../../upload...')
+#1 {main}
+  thrown in /home/itourscloud/public_html/airwings/truncate-setup-installer/installer/installer.php on line 66
